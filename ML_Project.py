@@ -198,7 +198,7 @@ if file_upload is not None:
                         ax.set_title('Top Features')
                         st.pyplot(fig)
 
-# Documentation
+# Instruction how to use
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Documentation")
 st.sidebar.markdown("- Upload a dataset to start.")
